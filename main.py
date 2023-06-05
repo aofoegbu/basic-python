@@ -1,3 +1,5 @@
+# basic password character checker
+
 username = input('Enter your username:\n ')
 password = input('Enter your password:\n')
 length = len(password)
